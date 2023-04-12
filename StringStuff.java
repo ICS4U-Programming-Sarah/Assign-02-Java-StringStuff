@@ -83,7 +83,7 @@ public final class StringStuff {
                 write.println("The max run of " + strEle
                         + " is " + maxLength + ".");
             }
-            // Closes scanner & writer.
+            // Closes scanner & writers.
             write.close();
             sc.close();
 
